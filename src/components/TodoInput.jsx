@@ -1,4 +1,3 @@
-
 export default function TodoInput(props) {
     const {handleAddTodos, todoValue, setTodoValue} = props
    
